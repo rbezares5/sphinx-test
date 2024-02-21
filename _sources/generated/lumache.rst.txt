@@ -13,17 +13,12 @@
 
    .. autosummary::
    
+      dummy_func
       get_random_ingredients
    
    
 
    
-   
-   .. rubric:: Classes
-
-   .. autosummary::
-   
-      DummyClass
    
    
 
@@ -33,6 +28,7 @@
 
    .. autosummary::
    
+      DummyClass
       InvalidKindError
    
    
