@@ -13,6 +13,7 @@
 
    .. autosummary::
    
+      dummy_func
       get_random_ingredients
    
    
@@ -27,6 +28,7 @@
 
    .. autosummary::
    
+      DummyClass
       InvalidKindError
    
    
