@@ -15,6 +15,10 @@ class InvalidKindError(Exception):
     """Raised if the kind is invalid."""
     pass
 
-class DummyClass():
+class DummyClass(Exception):
+    """Testing updates to the code."""
+    pass
+
+def dummy_func():
     """Testing updates to the code."""
     pass
