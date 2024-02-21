@@ -14,7 +14,3 @@ def get_random_ingredients(kind=None):
 class InvalidKindError(Exception):
     """Raised if the kind is invalid."""
     pass
-
-class DummyClass():
-    """Testing updates to the code."""
-    pass
