@@ -19,6 +19,12 @@
 
    
    
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DummyClass
+   
    
 
    
